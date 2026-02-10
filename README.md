@@ -7,7 +7,6 @@ The project covers the entire ML lifecycle — from raw data cleaning to cloud d
 
 🔗 Deployed on AWS EC2
 http://ec2-13-48-136-87.eu-north-1.compute.amazonaws.com/
-📌 Project Highlights
 
 Complete end-to-end ML pipeline
 
@@ -100,3 +99,4 @@ Nginx
 AWS EC2 (Ubuntu)
 
 Gunicorn (WSGI Server)
+
